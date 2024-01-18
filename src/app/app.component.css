@@ -1,0 +1,26 @@
+.container {
+    width: 402px;
+    margin: 5px;
+    border-radius: 5px;
+    padding-left: 500px;
+    border-color: brown;
+  
+
+}
+
+.texto {
+    text-align: center;
+    font-size: medium;
+    width: 402px;
+    display: flex;
+    padding-left: 700px;
+    font-family: cursive;
+    color: blue;
+}
+
+.titulo {
+    padding-left: 800px;
+    font-family: cursive;
+    color: blue;
+
+}
